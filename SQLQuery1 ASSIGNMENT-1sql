@@ -66,7 +66,7 @@ constraint for City column in Salesman table. Add Foreign key constraint for Sal
 column in Customer table. Add not null constraint in Customer_name column for the
 Customer table.
 
-3. Fetch the data where the Customer’s name is ending with ‘N’ also get the purchase
+3. Fetch the data where the Customerâ€™s name is ending with â€˜Nâ€™ also get the purchase
 amount value greater than 500.
 
 4. Using SET operators, retrieve the first result with unique SalesmanId values from two
@@ -125,7 +125,7 @@ Customer table.
 
 
 
-3. Fetch the data where the Customer’s name is ending with ‘N’ also get the purchase
+3. Fetch the data where the Customerâ€™s name is ending with â€˜Nâ€™ also get the purchase
 amount value greater than 500.
 
 
